@@ -4,3 +4,4 @@ third edition
 issue resolved
 Hotfox team's solution
 New function added
+Team upgraded
