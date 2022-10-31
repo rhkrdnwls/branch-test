@@ -2,3 +2,4 @@ first edition
 second edition
 third edition
 issue resolved
+Hotfox team's solution
